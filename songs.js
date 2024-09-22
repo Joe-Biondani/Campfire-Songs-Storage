@@ -6,6 +6,23 @@ var songs = [
         `<b>Are you sure that's the right link?</b>`,
     ],
     [
+        "The Muffin Man",
+        "muffin-man",
+        "Sing Along",
+        `PERSON 1:<br />
+        Do you know the muffin man, the muffin man, the muffin man,<br />
+        Do you the muffin man, who lives on Drury Lane?<br />
+        <br class="linebreak" />
+        PERSON 2:<br />
+        Yes I know the muffin man, the muffin man, the muffin man,<br />
+        Yes I know the muffin man, who lives on Drury Lane!<br />
+        <br class="linebreak" />
+        BOTH:<br />
+        We both know the muffin man, the muffin man, the muffin man,<br />
+        We both know the muffin man, who lives on Drury Lane!<br />
+        (both people now go and find a new person, repeat until all complete)`
+    ],
+    [
         "Ging Gang Goolee",
         "ging-gang-goolee",
         "Sing Along",
