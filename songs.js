@@ -6,6 +6,64 @@ var songs = [
         `<b>Are you sure that's the right link?</b>`,
     ],
     [
+        "Down By The Bay",
+        "down-by-the-bay",
+        "Repeat After Me",
+        `Down by the bay<br />
+Where the watermelons grow<br />
+Back to my home<br />
+I dare not go<br />
+For if I do<br />
+My mummy will say...<br />
+Have you ever seen a... (insert silly line here)<br />
+Down by the bay!<br /><br />
+Did you ever see a llama, wearing pink pyjamas?<br />
+Did you ever see a goose, kissing a moose?<br />
+Did you ever see a whale with a polka-dot tail?<br />
+Did you ever see a bear, without any hair?<br />
+Did you ever see cat, wearing a hat?<br />
+Did you ever see a hare, brushing her hair?<br />
+Did you ever see a turtle, wearing a girdle?<br />
+Did you ever see a quail, missing his tail?<br />
+Did you ever see a fox, carrying a box?<br />
+Did you ever see a mouse, sweeping out her house?<br />
+Did you ever see a snake, barbequing a steak?<br />
+Did you ever see a dog, taking a jog?<br />
+Did you ever see a bird, speaking a word?<br />
+Did you ever see a bug, drinking from a mug?<br />
+Did you ever see a cow with a green eyebrow?<br />
+Did you ever see a bee with a sunburned knee?<br />
+Did you ever see a moose with a loose front tooth?<br />
+Did you ever see a bear, in his underwear?<br />
+Did you ever see a whale with a polka dot tail?<br />
+Did you ever see a fly wearing a tie?<br />
+Did you ever see a bear combing it's hair?<br />
+Did you ever see a flower taking a shower?<br />
+Did you ever see a teacher kissing a creature?<br />
+Did you ever see a goat sailing a boat?<br />
+Did you ever see a snake baking a cake?<br />
+Did you ever see a hog walking a dog?<br />
+Did you ever see a dog dancing with a frog?<br />
+Did you ever see a bat kissing a cat?<br />
+Did you ever see a moose shaking it loose?<br />
+Did you ever see a toad running in the road?<br />
+Did you ever see a dog dancing with polliwogs?<br />
+Did you ever see a horse riding in a Porsche?<br />
+Did you ever see a witch digging a ditch?<br />
+Did you ever see a room clean by noon?<br />
+Did you ever see earth shaking with mirth?<br />
+Did you ever see a plant eating an ant?<br />
+Did you ever see a man recycling a can?<br />
+Did you ever see a sprout come up with a shout?<br />
+Did you ever see an oak wearing a cloak?<br />
+Did you ever see a bike carrying Mike?<br />
+Did you ever see a goose drinking apple juice?<br />
+Did you ever see rats wearing silk hats?<br />
+Did you ever see beans as big as submarines?<br />
+Did you ever have a time when you couldn't make a rhyme?<br />
+`
+    ],
+    [
         "The Muffin Man",
         "muffin-man",
         "Sing Along",
