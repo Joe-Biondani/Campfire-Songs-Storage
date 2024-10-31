@@ -16,7 +16,8 @@ I dare not go<br />
 For if I do<br />
 My mummy will say...<br />
 Have you ever seen a... (insert silly line here)<br />
-Down by the bay!<br /><br />
+Down by the bay!<br />
+<br class="linebreak" />
 Did you ever see a llama, wearing pink pyjamas?<br />
 Did you ever see a goose, kissing a moose?<br />
 Did you ever see a whale with a polka-dot tail?<br />
